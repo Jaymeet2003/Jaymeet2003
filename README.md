@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning to code in real time
 - 💞️ I’m looking to collaborate on projects and codes
-- 📫 How to reach me through email jaymeet5087d@gmail.com
+- 📫 Reach me through email jaymeet5087d@gmail.com
 
 <!---
 Jaymeet2003/Jaymeet2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
