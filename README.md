@@ -8,7 +8,7 @@ I am Jaymeet Patel, a passionate Computer Science and Business Administration st
 
 **Contact Information**  
 - **Location:** Chicago, IL 60612  
-- **Phone:** (630) 464-4830  
+- **Phone:** 
 - **Email:** [jaymeet5087d@gmail.com](mailto:jaymeet5087d@gmail.com)  
 - **LinkedIn:** [Jaymeet Patel](https://www.linkedin.com/in/jaymeet-patel-051b421a6/)  
 - **GitHub:** [jaymeet2003](https://github.com/jaymeet2003)
