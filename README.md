@@ -4,7 +4,7 @@
 
 ## Overview
 
-I am Jaymeet Patel, a passionate Computer Science and Business Administration student with a keen interest in cybersecurity. With a solid foundation in software engineering and mathematics, I am committed to leveraging my skills in programming, web development, and cybersecurity to contribute to impactful projects. My goal is to apply my knowledge to develop secure and innovative solutions that address real-world challenges.
+I am Jaymeet Patel, a passionate Computer Science and Business Administration student with a keen interest in cybersecurity. With a solid foundation in software engineering and mathematics, I am committed to leveraging my skills in programming, web development, software development, systems design, and cybersecurity to contribute to impactful projects. My goal is to apply my knowledge to develop secure and innovative solutions that address real-world challenges.
 
 **Contact Information**  
 - **Location:** Chicago, IL 60612  
