@@ -88,9 +88,9 @@ Currently, I lead a small digital agency focused on delivering web, AI, and cybe
 
 ## 📬 Let's Connect
 
-- 📧 Email: [jaymeetofficial13@gmail.com](mailto:jaymeet5087d@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/jaymeet2003](https://linkedin.com/in/jaymeet2003)  
-- 🌐 Portfolio: [jaymeet2003.github.io](https://jaymeet2003.github.io/Portfolio)
+- 📧 Email: [jaymeet5087d@gmail.com](mailto:jaymeet5087d@gmail.com)  
+- 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/jaymeet2003)  
+- 🌐 Portfolio: [Jimmy Patel](https://jaymeet2003.github.io/Portfolio)
 
 ---
 
