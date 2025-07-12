@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=jaymeet2003&label=Profile%20views&color=0e75b6&style=flat" alt="jaymeet2003" />
   </a>
   <a href="mailto:jaymeetofficial13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jaymeetofficial13@gmail.com-red?style=flat&logo=gmail" alt="email" />
+    <img src="https://img.shields.io/badge/Email-jaymeet5087d@gmail.com-red?style=flat&logo=gmail" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/jaymeet2003/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jaymeet%20Patel-blue?style=flat&logo=linkedin" alt="linkedin" />
