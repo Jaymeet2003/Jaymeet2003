@@ -55,11 +55,21 @@ Currently, I lead a small digital agency focused on delivering web, AI, and cybe
 
 ## 💼 Featured Projects
 
-- 🛡️ [**Scamurai**](#) – Real-time fraud detection system using Stripe webhooks, FastAPI, and XGBoost  
-- 🎶 [**JukeBid+Loyal**](#) – AI-driven music bidding and loyalty system for cafés using Spotify API  
-- 🕵️ [**SSH Honeypot**](#) – Custom Python honeypot to detect brute force and simulate a fake file system  
-- 🧠 [**AI-Powered Transaction Monitor**](#) – Built a precision-optimized fraud ML pipeline with engineered features  
-- 🌐 [**Cybersecurity Portfolio Website**](#) – Animated AR/3D site using GSAP, Three.js, and Tailwind CSS
+- 🛡️ [**ScamurAI — Fraud Detection Firewall**](https://github.com/Jaymeet2003/ScamurAI)  
+  Developed a decentralized fraud detection system using machine learning and Gun.js, achieving 92% accuracy with alerts under 1.5 seconds. Deployed a React dashboard for real-time threat monitoring and visualization.
+
+- 🎯 [**Honeypot — Intrusion Detection Simulator**](https://github.com/Jaymeet2003/Honeypot)  
+  Simulated SSH and HTTP services in Python to attract attackers, collecting over 1,000 unique intrusion attempts. Automated classification reduced threat reporting time by 50%.
+
+- 🌐 [**Malicious Proxy Server**](https://github.com/Jaymeet2003/Malicious-Proxy)  
+  Built a transparent HTTP/HTTPS proxy using sockets for deep packet inspection. Reduced unauthorized transmissions by 40% and flagged anomalous traffic in real time.
+
+- 🧪 [**DNS Poisoning Detection System**](https://github.com/Jaymeet2003/DNS-poisoining-Detector)  
+  Engineered a hybrid detection tool combining Wireshark traffic logs with Python-based anomaly detection. Accelerated spoofing alert time by 40% in testing.
+
+- 🧬 [**DNS Injection Simulation Tool**](https://github.com/Jaymeet2003/DNS-poisoining-Detector)  
+  Simulated forged DNS attacks using Scapy and dnspython in multiple network environments. Strengthened testing protocols and improved security coverage by 60%.
+
 
 > _Reach out for demos, freelance requests, or collaboration on research and open-source security tooling._
 
