@@ -20,8 +20,6 @@
 
 ## 🧑‍💼 About Me
 
-## 🧑‍💼 About Me
-
 I am a cybersecurity professional with a strong foundation in **network defense**, **software engineering**, and **machine learning for threat detection**. My work focuses on designing secure, scalable systems that mitigate real-world cyber risks — including intrusion detection, DNS poisoning prevention, and decentralized fraud monitoring.
 
 I am currently pursuing a **Master of Science in Cybersecurity** at **DePaul University**, specializing in **Networking and Infrastructure**. I hold dual undergraduate degrees in **Computer Science** and **Business Administration** from the University of Illinois Chicago, where I was a 3× Dean’s List recipient.
