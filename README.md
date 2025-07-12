@@ -1,18 +1,26 @@
 <h1 align="center">Hi, I'm Jaymeet Patel</h1>
 <h3 align="center">Cybersecurity Enthusiast | Full-Stack Developer | Technology Consultant</h3>
 
+<!-- GitHub / Contact Badges - Advanced UI -->
 <p align="center">
-  <a href="https://github.com/jaymeet2003">
-    <img src="https://komarev.com/ghpvc/?username=jaymeet2003&label=Profile%20views&color=0e75b6&style=flat" alt="jaymeet2003" />
+  <!-- GitHub Profile Views -->
+  <a href="https://github.com/jaymeet2003" target="_blank" aria-label="GitHub">
+    <img src="https://komarev.com/ghpvc/?username=jaymeet2003&label=Profile%20Views&color=0e75b6&style=flat-square" alt="GitHub Profile Views" />
   </a>
-  <a href="mailto:jaymeetofficial13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jaymeet5087d@gmail.com-red?style=flat&logo=gmail" alt="email" />
+
+  <!-- Email Contact -->
+  <a href="mailto:jaymeetofficial13@gmail.com" target="_blank" aria-label="Email">
+    <img src="https://img.shields.io/badge/Email-jaymeet%20[at]%20gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Jaymeet" />
   </a>
-  <a href="https://www.linkedin.com/in/jaymeet2003/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaymeet%20Patel-blue?style=flat&logo=linkedin" alt="linkedin" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jaymeet2003/" target="_blank" aria-label="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Jaymeet%20Patel-0077B5?style=flat-square&logo=linkedin" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://jaymeet2003.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=githubpages" alt="portfolio" />
+
+  <!-- Portfolio Website -->
+  <a href="https://jaymeet2003.github.io/" target="_blank" aria-label="Portfolio Website">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=githubpages&logoColor=white" alt="Visit Portfolio" />
   </a>
 </p>
 
