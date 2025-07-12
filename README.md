@@ -82,12 +82,29 @@ My goal is to merge security engineering with innovation, building infrastructur
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymeet2003&layout=compact&hide=html,css&theme=default" alt="Top Languages" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jaymeet2003&show_icons=true&theme=transparent&hide_title=false&hide_border=false&count_private=true&include_all_commits=true" 
+    alt="Jaymeet's GitHub Stats" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymeet2003&layout=compact&theme=transparent&hide_border=false&langs_count=6&hide=css,html" 
+    alt="Top Languages Used" 
+    width="48%" 
+  />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaymeet2003&show_icons=true&theme=default&hide=contribs" alt="GitHub Stats" />
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jaymeet2003&theme=transparent&hide_border=false" 
+    alt="GitHub Contribution Streak" 
+    width="96%" 
+  />
 </p>
+
 
 ---
 
