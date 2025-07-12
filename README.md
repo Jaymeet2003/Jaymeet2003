@@ -20,9 +20,16 @@
 
 ## 🧑‍💼 About Me
 
-I'm a recent graduate with a strong foundation in **cybersecurity, software development, and applied machine learning**. My passion lies in building secure, scalable, and intuitive digital systems that solve real-world problems.
+## 🧑‍💼 About Me
 
-Currently, I lead a small digital agency focused on delivering web, AI, and cybersecurity solutions for small businesses. I also actively contribute to open-source and personal projects involving fraud detection, secure systems, and intelligent automation.
+I am a cybersecurity professional with a strong foundation in **network defense**, **software engineering**, and **machine learning for threat detection**. My work focuses on designing secure, scalable systems that mitigate real-world cyber risks — including intrusion detection, DNS poisoning prevention, and decentralized fraud monitoring.
+
+I am currently pursuing a **Master of Science in Cybersecurity** at **DePaul University**, specializing in **Networking and Infrastructure**. I hold dual undergraduate degrees in **Computer Science** and **Business Administration** from the University of Illinois Chicago, where I was a 3× Dean’s List recipient.
+
+Alongside my academic journey, I lead a digital agency committed to empowering small businesses through modern **web development**, **AI solutions**, and **cybersecurity consulting**. I also contribute to open-source and independent projects, with a focus on secure protocol design, anomaly detection, and system integrity verification.
+
+My goal is to merge security engineering with innovation, building infrastructure that is not only functional — but resilient by design.
+
 
 ---
 
