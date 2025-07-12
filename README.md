@@ -80,8 +80,6 @@ My goal is to merge security engineering with innovation, building infrastructur
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
