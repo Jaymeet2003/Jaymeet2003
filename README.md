@@ -9,8 +9,8 @@
   </a>
 
   <!-- Email Contact -->
-  <a href="mailto:jaymeetofficial13@gmail.com" target="_blank" aria-label="Email">
-    <img src="https://img.shields.io/badge/Email-jaymeet%20@%20gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Jaymeet" />
+  <a href="mailto:jaymeet5087d@gmail.com" target="_blank" aria-label="Email">
+    <img src="https://img.shields.io/badge/Email-jaymeet5087d%20@%20gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Jaymeet" />
   </a>
 
   <!-- LinkedIn -->
